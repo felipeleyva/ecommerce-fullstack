@@ -2,9 +2,9 @@ import ProductCard from "./ProductCard";
 
 // Simulación de productos
 const products = [
-    { id: 1, name: "Camiseta", price: 19.99, image: "/src/assets/shirt.jpg" },
-    { id: 2, name: "Zapatos", price: 49.99, image: "/src/assets/shoes.jpg" },
-    { id: 3, name: "Gorra", price: 14.99, image: "/src/assets/hat.jpg" }
+    { id: 1, name: "Camiseta", price: 19.99, image: "/shirt.jpg" },
+    { id: 2, name: "Zapatos", price: 49.99, image: "/shoes.jpg" },
+    { id: 3, name: "Gorra", price: 14.99, image: "/hat.jpg" }
   ];
 
 function ProductList() {
